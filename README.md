@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @anavrinceanu
+- 👋 Hi, I’m @anavrinceanu <3
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning C++, HTML, CSS, JavaScript and Python.
